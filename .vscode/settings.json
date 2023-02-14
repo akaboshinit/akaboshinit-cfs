@@ -1,0 +1,15 @@
+{
+  "eslint.workingDirectories": ["./functions"],
+  "editor.comments.insertSpace": false,
+  "editor.detectIndentation": false,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.formatOnSave": false
+  },
+  "cSpell.words": ["adminsdk", "enryaku", "firestore"]
+}
